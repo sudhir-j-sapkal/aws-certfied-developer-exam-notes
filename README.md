@@ -4,10 +4,10 @@ Notes for AWS certified developer certification exam
 
 ## Table of contents
 - Getting Started With AWS
-    - [AWS Cloud Overview]()
-    - [Regions & Availability Zones]()
+    - [AWS Cloud Overview](https://github.com/sudhir-j-sapkal/aws-certfied-developer-exam-notes/blob/main/README.md#aws-cloud-overview)
+    - [Regions & Availability Zones](https://github.com/sudhir-j-sapkal/aws-certfied-developer-exam-notes/blob/main/README.md#regions--availability)
 - IAM & AWS CLI
-    - [IAM Introduction - Users, Groups & Policies]()
+    - [IAM Introduction - Users, Groups & Policies](https://github.com/sudhir-j-sapkal/aws-certfied-developer-exam-notes/blob/main/README.md#iam-introduction---users-groups--policies)
     - [IAM Policies]()
     - [MFA]()
     - [Acces Keys, CLI & SDK]()
@@ -51,18 +51,7 @@ Notes for AWS certified developer certification exam
 
 #### AWS Cloud Overview
 
-#### Regions & Availability 
-
-## IAM & AWS CLI
-
-#### IAM Introduction - Users, Groups & Policies
-#### IAM Policies
-#### MFA
-#### Acces Keys, CLI & SDK
-#### IAM Roles
-#### Security Tools
-#### IAM Best Practices
-
+#### Regions & Availability Zones
 
 ## VPC Fundamentals
  Within a region we can create VPCs. Each VPC contains subnets. Each subnet must be mapped to an AZ. It’s common to have a public ip and private ip subnet. It’s common to have many subnets per AZ
