@@ -41,12 +41,28 @@ Notes for AWS certified developer certification exam
     - [CNAME vs Alias]()
     - [Routing Policies - Simple, Weighted, Latency, Failover, Geolocation, Geoproximity, Multivalue]()
 - VPC Fundamentals
-    - [VPC & Subnets Primar](https://github.com/sudhir-j-sapkal/aws-certfied-developer-exam-notes/blob/main/README.md#vpc--subnets-primar)
+    - [VPC & Subnets Primar]()
     - []()
     - []()
     - []()
 	
 	
+## Getting Started With AWS
+
+#### AWS Cloud Overview
+
+#### Regions & Availability 
+
+## IAM & AWS CLI
+
+#### IAM Introduction - Users, Groups & Policies
+#### IAM Policies
+#### MFA
+#### Acces Keys, CLI & SDK
+#### IAM Roles
+#### Security Tools
+#### IAM Best Practices
+
 
 ## VPC Fundamentals
  Within a region we can create VPCs. Each VPC contains subnets. Each subnet must be mapped to an AZ. It’s common to have a public ip and private ip subnet. It’s common to have many subnets per AZ
