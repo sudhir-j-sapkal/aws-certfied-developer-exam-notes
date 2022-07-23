@@ -58,4 +58,3 @@ Notes for AWS certified developer certification exam
 
 #### VPC & Subnets Primar
 - VPC are Private Network to deploy your resources(regional resources)
-- 
