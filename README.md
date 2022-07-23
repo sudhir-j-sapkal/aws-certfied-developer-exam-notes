@@ -5,7 +5,7 @@ Notes for AWS certified developer certification exam
 ## Table of contents
 - Getting Started With AWS
     - [AWS Cloud Overview](https://github.com/sudhir-j-sapkal/aws-certfied-developer-exam-notes/blob/main/README.md#aws-cloud-overview)
-    - [Regions & Availability Zones](https://github.com/sudhir-j-sapkal/aws-certfied-developer-exam-notes/blob/main/README.md#regions--availability)
+    - [Regions & Availability Zones](https://github.com/sudhir-j-sapkal/aws-certfied-developer-exam-notes/blob/main/README.md#regions---availability-zones)
 - IAM & AWS CLI
     - [IAM Introduction - Users, Groups & Policies](https://github.com/sudhir-j-sapkal/aws-certfied-developer-exam-notes/blob/main/README.md#iam-introduction---users-groups--policies)
     - [IAM Policies]()
@@ -58,3 +58,4 @@ Notes for AWS certified developer certification exam
 
 #### VPC & Subnets Primar
 - VPC are Private Network to deploy your resources(regional resources)
+- 
