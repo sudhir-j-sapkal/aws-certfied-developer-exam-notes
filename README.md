@@ -41,7 +41,7 @@ Notes for AWS certified developer certification exam
     - [CNAME vs Alias]()
     - [Routing Policies - Simple, Weighted, Latency, Failover, Geolocation, Geoproximity, Multivalue]()
 - VPC Fundamentals
-    - [VPC & Subnets Primar]()
+    - [VPC & Subnets Primar](https://github.com/sudhir-j-sapkal/aws-certfied-developer-exam-notes/blob/main/README.md#vpc--subnets-primar)
     - []()
     - []()
     - []()
